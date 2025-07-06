@@ -10,6 +10,11 @@ curl -LO https://raw.githubusercontent.com/prowler-cloud/prowler/refs/heads/mast
 docker compose up -d
 ```
 
+### URLS
+
+- [API DOC](http://localhost:8080/api/v1/docs)
+- [FRONT](http://localhost:3000)
+
 ## More infos
 
 - [prowler github](https://github.com/prowler-cloud/prowler?tab=readme-ov-file)
